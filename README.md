@@ -38,18 +38,14 @@ Here are some ideas to get you started:
 -->
 
 ## If you want to see some highlights of my production so far, check:
-- [Fight Club](https://github.com/sincopeiro/fight-club-game)
-- [Datify](https://github.com/sincopeiro/datify)
+- [Keep talking and nobody explodes](https://github.com/MCiappina/keep-talking-nobody-explodes)
+- [Datify](https://github.com/MCiappina/datify)
 - [Oddmarket](https://github.com/LBWKH/OddMarket---Client)
-- [Wiki Countries](https://github.com/sincopeiro/lab-wiki-countries)
-- [Spotify Searcher](https://github.com/sincopeiro/lab-express-spotify)
-- [BitCoin Real Time Graph](https://github.com/sincopeiro/lab-financial-data-graphing-collaborative)
-- [Nutrition App](https://github.com/sincopeiro/lab-react-ironnutrition)
 
 ## GitHub Stats
 
-[![Felipe Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sincopeiro&theme=synthwave&show_icons=true)](https://github.com/sincopeiro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sincopeiro&theme=synthwave&layout=compact)](https://github.com/sincopeiro/github-readme-stats)
+[![Matheus Ciappina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCiappina&theme=synthwave&show_icons=true)](https://github.com/MCiappina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCiappina&theme=synthwave&layout=compact)](https://github.com/MCiappina/github-readme-stats)
 
 
 ## My Stack
@@ -62,19 +58,14 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-
-### UX/UI:
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
 ### Utilities:
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
