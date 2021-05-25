@@ -1,20 +1,26 @@
 # Hi, Matheus here 👋
 
-<a target="_blank" href="https://www.linkedin.com/in/affreitas/">
+<a target="_blank" href="https://www.linkedin.com/in/matheusciappina/">
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="mailto:afelipe.fretas@gmail.com">
+<a target="_blank" href="mailto:matheus.ciappina@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br>
 <br>
 
-![](https://www.codewars.com/users/sincopeiro/badges/micro)
+![](https://www.codewars.com/users/MCiappina/badges/micro)
 
-I have been working in sales for almost three years, and I am now making a transition into web development. I love to solve problems, face challenges and I'm excited about the possibilities of technology transforming society. Furthermore: killer public speaking skills, a background in business development, and a creative mind for concepts.
+I've always loved technology in one way or another: either playing games or spending hours and hours on the internet studying. In 2020, I decided I would try my way into this industry.
 
-Recently, I graduated from Ironhack São Paulo's Web Development boot camp, and currently, I'm seeking entry-level full-stack web development opportunities. If you'd like to work together, feel free to connect via LinkedIn or contact me directly at afelipe.freitas@gmail.com
+I went to school at UNICAMP for a bachelors degree in Music. I worked teaching music to children for 2 years, where I had to learn how to play new instruments from scratch, which greatly improved my ability to act out on the fly. As an intern, I had to take a lot of responsability planning classes and teaching subjects solo when needs arose.
+
+I was self-taught in Music with the help of resources on the web back in the day, which made me really tech savy, so one day I figured: why not try out learning some web development skills? I started taking courses such as FreeCodeCamp and CodeCademy and it clicked: this is what I wanted to do!
+
+It took me some time to finally decide on taking Ironhack's bootcamp to polish my React, MongoDB, Express, Node, and more! It's been a great experience so far!
+
+I'm thrilled about game development and full-stack development. If you have any questions or want to have a talk about tech, you can reach me on matheus.ciappina@gmail.com
 
 <!--
 **sincopeiro/sincopeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
